@@ -39,6 +39,7 @@ user_template = '''
 <div class="chat-message user">
     <div class="avatar">
         <img src="https://cdn.dribbble.com/users/1937255/screenshots/14588207/media/0d0b9719cb11ea243c7c9a67ac97dc47.png"
+        style="max-height: 78px; max-width: 78px; border-radius: 50%; object-fit: cover;">
     </div>    
     <div class="message">{{MSG}}</div>
 </div>
