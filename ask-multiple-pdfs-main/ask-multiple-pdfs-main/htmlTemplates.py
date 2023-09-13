@@ -38,7 +38,7 @@ bot_template = '''
 user_template = '''
 <div class="chat-message user">
     <div class="avatar">
-        <img src="https://dataconomy.com/wp-content/uploads/2022/12/OpenAI-ChatGPT-New-chatbots-examples-limitations-and-more-6-1536x1009.jpg"
+        <img src="https://cdn.dribbble.com/users/1937255/screenshots/14588207/media/0d0b9719cb11ea243c7c9a67ac97dc47.png"
     </div>    
     <div class="message">{{MSG}}</div>
 </div>
