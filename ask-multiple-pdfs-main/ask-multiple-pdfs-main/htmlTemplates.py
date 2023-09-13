@@ -28,7 +28,7 @@ css = '''
 bot_template = '''
 <div class="chat-message bot">
     <div class="avatar">
-         <img src="https://i.ibb.co/cN0nmSj/Screenshot-2023-05-28-at-02-37-21.png" 
+         <img src="https://dataconomy.com/wp-content/uploads/2022/12/OpenAI-ChatGPT-New-chatbots-examples-limitations-and-more-6-1536x1009.jpg" 
         style="max-height: 78px; max-width: 78px; border-radius: 50%; object-fit: cover;">
     </div>
     <div class="message">{{MSG}}</div>
@@ -38,7 +38,7 @@ bot_template = '''
 user_template = '''
 <div class="chat-message user">
     <div class="avatar">
-        <img src="https://i.ibb.co/rdZC7LZ/Photo-logo-1.png"
+        <img src="https://dataconomy.com/wp-content/uploads/2022/12/OpenAI-ChatGPT-New-chatbots-examples-limitations-and-more-6-1536x1009.jpg"
     </div>    
     <div class="message">{{MSG}}</div>
 </div>

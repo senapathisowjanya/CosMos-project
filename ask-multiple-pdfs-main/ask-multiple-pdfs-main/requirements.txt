@@ -13,3 +13,5 @@ pymongo==4.5.0
 # uncomment to use instructor embeddings
 # InstructorEmbedding==1.0.1
 # sentence-transformers==2.2.2
+
+# https://bzoyccfvuyq6ktswdgmya4.streamlit.app/
