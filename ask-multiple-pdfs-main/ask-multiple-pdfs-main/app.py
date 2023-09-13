@@ -74,13 +74,13 @@ def handle_userinput(user_question, vectorstore):
 
     for i, message in enumerate(st.session_state.chat_history):
         if hasattr(message, 'role') and message.role == 'user':
-            st.write(user_template.replace("{{MSG}}", message.content), unsafe_allow_html=True)
+            st.markdown(user_template.replace("{{MSG}}", message.content), unsafe_allow_html=True)
         elif hasattr(message, 'content'):
-            st.write(bot_template.replace("{{MSG}}", message.content), unsafe_allow_html=True)
+            st.markdown(bot_template.replace("{{MSG}}", message.content), unsafe_allow_html=True)
         elif isinstance(message, str):  # Handle plain text messages
-            st.write(user_template.replace("{{MSG}}", message), unsafe_allow_html=True)
+            st.markdown(user_template.replace("{{MSG}}", message), unsafe_allow_html=True)
         # else:
-        #     st.write(bot_template.replace("{{MSG}}", str(message)), unsafe_allow_html=True)
+        #     st.markdown(bot_template.replace("{{MSG}}", str(message)), unsafe_allow_html=True)
 
 # Define a function to split text into chunks
 def get_text_chunks(text):

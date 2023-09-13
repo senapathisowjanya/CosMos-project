@@ -1,3 +1,4 @@
+# Define CSS styles separately
 css = '''
 <style>
 .chat-message {
@@ -23,8 +24,10 @@ css = '''
   padding: 0 1.5rem;
   color: #fff;
 }
+</style>
 '''
 
+# Define your HTML templates with the correct image URLs
 bot_template = '''
 <div class="chat-message bot">
     <div class="avatar">
