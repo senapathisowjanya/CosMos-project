@@ -40,6 +40,11 @@
 
 ![Screenshot (364)](https://github.com/senapathisowjanya/CosMos-project/assets/119430125/37012fdf-7a2f-40f7-9b0b-73a30e136aec)
 ![Screenshot (365)](https://github.com/senapathisowjanya/CosMos-project/assets/119430125/be291e5e-c289-4f85-aaeb-d11901c71a2b)
+
+
+![Screenshot (368)](https://github.com/senapathisowjanya/CosMos-project/assets/119430125/007e272f-1f15-48c8-af32-025113722660)
+
+
 ![Screenshot (367)](https://github.com/senapathisowjanya/CosMos-project/assets/119430125/dfe0fac4-d6a7-450e-80d2-53f0cc181a0c)
 
 </div>
