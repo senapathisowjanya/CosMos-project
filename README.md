@@ -1,4 +1,4 @@
- <center align="center">
+ <div align="center">
   <h2>Pdf Talker</h2>
-</center>
+</div>
 
