@@ -27,8 +27,8 @@
 <p  align="center">Enjoy a sleek and intuitive chat interface that enhances your experience while working with PDFs. PDF Talker's user-friendly design ensures a seamless interaction.</p>
 
  <h2 align="center">Overview</h2>
-  <h3 align="center">Deployed Link: https://64fa8c7aa1f72c1e00d37f42--dynamic-mousse-b24819.netlify.app/ </h3>
-   <h3 align="center">Video: https://drive.google.com/file/d/1d6qUJnDLL0-a_nMvu5s2fgmMexiToBdr/view?usp=sharing)https://drive.google.com/file/d/1d6qUJnDLL0-a_nMvu5s2fgmMexiToBdr/view?usp=sharing</h3>
+  <h5 align="center">Deployed Link: https://64fa8c7aa1f72c1e00d37f42--dynamic-mousse-b24819.netlify.app/ </h5>
+   <h5 align="center">Video: https://drive.google.com/file/d/1d6qUJnDLL0-a_nMvu5s2fgmMexiToBdr/view?usp=sharing)https://drive.google.com/file/d/1d6qUJnDLL0-a_nMvu5s2fgmMexiToBdr/view?usp=sharing</h5>
 
 
 
