@@ -15,7 +15,7 @@
 
 <h2 align="center">*Features* </h2>
 <h4  align="center">1.Human Authentication</h4>
-<p >PDF Talker is designed to ensure that only humans can access and use the application. We've integrated Teachable Machine to verify user identity. If you're human, you're good to go!</p>
+<p display="flex" align-items="left">PDF Talker is designed to ensure that only humans can access and use the application. We've integrated Teachable Machine to verify user identity. If you're human, you're good to go!</p>
 
 <h4  align="center">2.Conversational PDF Interaction</h4>
 <p  align="center">Upload your PDF documents and start a conversation with them. Ask questions, discuss specific topics, or seek explanations related to the content within the PDF. PDF Talker provides context-aware responses.</p>
